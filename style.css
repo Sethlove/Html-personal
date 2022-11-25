@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;900&family=Sacramento&display=swap');
+
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Sacramento', cursive; */
+body{
+    margin: 0;
+    text-align: center;
+}
+h1{
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+#First-Page{
+    /* height: 100vh;
+    width: 100%;
+    background-color: red;
+    padding: 0;
+    margin: 0; */
+}
+a{
+    text-decoration: none;
+}
+.Div1{
+    color: #66BFBF;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    height: 100vh;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background-color: #E4F9F4;
+}
+.Name{
+    padding-top: 5%;
+    font-size: 100px;
+    font-family: 'Sacramento', cursive;
+
+}
+.Pro{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+}
+.Mountain{
+    position: absolute;
+    bottom: 0;
+    display: block;
+    left: 30%;
+}
+.cloud1{
+    position: absolute;
+    top: 200px;
+    right: 150px;
+    width: 250px;
+}
+.cloud2{
+    position: absolute;
+    width: 250px;
+    left: 150px;
+}
+/* Body */
+.Body{
+
+}
+.pic{
+    width: 50%;
+}
+.greeting{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+.intro{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    line-height: 2;
+}
+.information{
+    height: 70vh;
+    width: 100%;
+}
+.info-container{
+    padding: 10% 35% 0 35%;
+}
+.hr{
+    border: dotted #37a8a8 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    margin: 0;
+}
+.h1{
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    margin-top: 20px;
+}
+.hrimformation{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+}
+.skills{
+    height: 100vh;
+    width: 100%
+}
+.web-gif {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.myskill{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    margin-top: 20px;
+}
+.skill-row{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+}
+.web{
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.17em;
+   
+}
+.webintro{
+    line-height: 2;
+    color: #40514E;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+.code-gif{
+    width: 25%;
+    float: right;
+}
+.code{
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.17em;
+}
+.codeintro{
+    line-height: 2;
+    color: #40514E;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+.hrskill{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+}
+.contact{
+    width: 100%;
+    height: 400px;
+}
+.GIT{
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    margin-top: 20px;
+}
+.IfWEB{
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.17em;
+}
+.contact-message{
+    width: 30%;
+    margin: 40px auto 60px;
+    line-height: 2;
+    color: #40514E;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+.btn{
+    background: #11CDD4;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.btn:hover{
+    background-color: #4d9597;
+}
+.bottom{
+    width: 100%;
+    height: 100px;
+    background-color: #11999e;
+    margin-top: 10px;
+    padding: 50px 0 20px
+}
+.Social{
+    margin: 10px;
+}
+.bottom p{
+    color: #ffffff;
+    font-family: 'Merriweather', serif;
+}
+.bottom a{
+    font-family: 'Montserrat', sans-serif;
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    margin: 25px;
+}
+.bottom a:hover{
+    color: #efe7e7;
+}
+/*.footer-link-a{
+    background-color: rgb(2, 137, 237);
+    border-radius: 18px;
+    width: 74px;
+    height: 36px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 8px;
+}
+
+
+
+
